@@ -1,0 +1,4 @@
+
+
+// expected
+if(eq(min(promoPriceSort_KZ01_96,promoPriceSort_KZ01_97),0),def(min(priceSort_KZ01_96, priceSort_KZ01_97),priceSort_KZ01_63),min(promoPriceSort_KZ01_96,promoPriceSort_KZ01_97))+asc

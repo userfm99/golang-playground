@@ -1,0 +1,5 @@
+{"bar":"bar","foo":"foo","level":"info","msg":"bar logged along with foo","time":"2020-01-10T17:31:08+07:00"}
+{"bar":"bar","foo":"foo","level":"info","msg":"bar logged along with foo","time":"2020-01-10T17:31:28+07:00"}
+{"bar":"bar","foo":"foo","level":"info","msg":"bar logged along with foo","time":"2020-01-10T17:31:29+07:00"}
+{"bar":"bar","foo":"foo","level":"info","msg":"bar logged along with foo","time":"2020-01-10T17:31:30+07:00"}
+{"bar":"bar","foo":"foo","level":"info","msg":"bar logged along with foo","time":"2020-01-10T17:31:31+07:00"}
